@@ -39,7 +39,7 @@ li:first-letter{
 
 .weather-app-wrapper{
     max-width: 600px;
-    margin: 0px auto;
+    margin: 40px auto;
 
 }
 
@@ -55,7 +55,7 @@ li:first-letter{
 
 .weather-temperature strong{
     color: rgb(33,33,33);
-    font-size: 64px;
+    font-size: 74px;
     line-height: 1;
     font-weight: 400;
 }
@@ -63,7 +63,7 @@ li:first-letter{
 .weather-temperature .units {
     position: relative;
     font-size: 16px;
-    top: -34px;
+    top: -38px;
     text-decoration: none;
 
 }
